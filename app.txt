@@ -1,0 +1,6 @@
+[2016-06-16 12:12:21] name.WARNING: Foo [] []
+[2016-06-16 12:12:21] name.WARNING: Foo [] []
+[2016-06-16 12:12:25] name.WARNING: Foo [] []
+[2016-06-16 12:26:28] name.WARNING: Foo [] []
+[2016-06-16 13:53:03] name.WARNING: Oh, Noes [] []
+[2016-06-16 13:53:04] name.WARNING: Oh, Noes [] []
